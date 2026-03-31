@@ -1,0 +1,1003 @@
+2026-02-11 12:26:06 INFO  positiveLogin - signup page dispalyed
+2026-02-11 12:27:02 INFO  positiveLogin - signup page dispalyed
+2026-02-12 17:09:33 INFO  Validlogin - error msg displayed sucessfully
+2026-02-12 17:09:35 INFO  Validlogin - Orange HRM Website is dispalyed
+2026-02-12 17:09:38 INFO  Validlogin - error msg displayed sucessfully
+2026-02-12 17:09:40 INFO  Validlogin - Orange HRM Website is dispalyed
+2026-02-12 17:09:42 INFO  Validlogin - Orange HRM login sucessfully
+2026-02-12 17:09:44 INFO  Validlogin - Username verified sucessfully
+2026-02-13 11:35:58 INFO  Login - Orange HRM Website is dispalyed
+2026-02-13 11:36:00 INFO  Login - Orange HRM login sucessfully
+2026-02-13 11:36:01 INFO  Login - Username verified sucessfully
+2026-02-13 11:36:03 INFO  Login - Orange HRM Website is dispalyed
+2026-02-13 11:36:05 INFO  Login - error msg displayed sucessfully
+2026-02-13 11:36:07 INFO  Login - error msg displayed sucessfully
+2026-02-13 11:36:10 INFO  Login - error msg displayed sucessfully
+2026-02-13 11:36:14 INFO  Login - error msg displayed sucessfully
+2026-02-13 11:36:16 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:28:04 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:28:09 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:28:13 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:28:16 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:28:19 INFO  Login - Orange HRM login sucessfully
+2026-02-14 12:28:20 INFO  Login - Username verified sucessfully
+2026-02-14 12:54:02 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:54:05 INFO  Login - Orange HRM login sucessfully
+2026-02-14 12:54:07 INFO  Login - Username verified sucessfully
+2026-02-14 12:54:13 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:54:18 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:54:22 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:57:32 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:57:35 INFO  Login - Orange HRM login sucessfully
+2026-02-14 12:57:36 INFO  Login - Username verified sucessfully
+2026-02-14 12:57:43 INFO  Login - error msg displayed sucessfully
+2026-02-14 12:57:47 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 12:57:50 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:05:07 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:05:09 INFO  Login - Orange HRM login sucessfully
+2026-02-14 13:05:11 INFO  Login - Username verified sucessfully
+2026-02-14 13:05:17 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:05:23 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:05:30 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:05:39 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:05:47 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:05:52 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:07:06 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:07:08 INFO  Login - Orange HRM login sucessfully
+2026-02-14 13:07:10 INFO  Login - Username verified sucessfully
+2026-02-14 13:07:17 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:07:24 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:07:31 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:07:41 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:07:48 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:07:52 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:09:22 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:09:25 INFO  Login - Orange HRM login sucessfully
+2026-02-14 13:09:26 INFO  Login - Username verified sucessfully
+2026-02-14 13:09:32 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:09:36 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:09:40 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:09:44 INFO  Login - error msg displayed sucessfully
+2026-02-14 13:09:46 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 13:09:49 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:08:31 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 16:08:42 INFO  Login - Orange HRM login sucessfully
+2026-02-14 16:08:45 INFO  Login - Username verified sucessfully
+2026-02-14 16:08:51 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:08:57 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:09:06 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:09:12 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:09:15 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 16:09:20 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:34:46 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-14 16:34:46 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 16:34:50 INFO  Login - Orange HRM login sucessfully
+2026-02-14 16:34:52 INFO  Login - Username verified sucessfully
+2026-02-14 16:34:52 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-14 16:34:53 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-14 16:34:56 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:34:56 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-14 16:34:58 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-14 16:35:04 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:35:04 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-14 16:35:05 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-14 16:35:09 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:35:09 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-14 16:35:12 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-14 16:35:17 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:35:18 INFO  ScreenshotListener - Screenshot captured for failed test: Emptysubmit in class: org.example.tests.Login
+2026-02-14 16:35:18 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Emptysubmit_14_02_2026_04_35_17.png
+2026-02-14 16:35:19 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-14 16:35:19 INFO  Login - Orange HRM Website is dispalyed
+2026-02-14 16:35:23 INFO  Login - error msg displayed sucessfully
+2026-02-14 16:35:23 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-15 12:35:11 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-15 12:35:12 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 12:35:17 INFO  Login - Orange HRM login sucessfully
+2026-02-15 12:35:19 INFO  Login - Username verified sucessfully
+2026-02-15 12:35:20 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-15 12:35:21 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 12:35:24 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:35:24 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 12:35:25 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 12:35:28 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:35:28 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 12:35:30 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 12:35:33 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:35:33 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 12:35:34 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 12:35:38 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:35:38 INFO  ScreenshotListener - Screenshot captured for failed test: Emptysubmit in class: org.example.tests.Login
+2026-02-15 12:35:38 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Emptysubmit_15_02_2026_12_35_38.png
+2026-02-15 12:35:40 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-15 12:35:40 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 12:35:44 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:35:44 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-15 12:36:35 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-15 12:36:35 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 12:36:38 INFO  Login - Orange HRM login sucessfully
+2026-02-15 12:36:40 INFO  Login - Username verified sucessfully
+2026-02-15 12:36:41 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-15 12:36:42 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 12:36:45 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:36:45 INFO  ScreenshotListener - Screenshot captured for failed test: Emptysubmit in class: org.example.tests.Login
+2026-02-15 12:36:45 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Emptysubmit_15_02_2026_12_36_45.png
+2026-02-15 12:36:47 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-15 12:36:47 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 12:36:51 INFO  Login - error msg displayed sucessfully
+2026-02-15 12:36:51 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-15 13:18:54 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-15 13:18:54 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 13:18:58 INFO  Login - Orange HRM login sucessfully
+2026-02-15 13:19:01 INFO  Login - Username verified sucessfully
+2026-02-15 13:19:01 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-15 13:19:02 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 13:19:07 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:19:07 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 13:19:09 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 13:19:12 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:19:12 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 13:19:14 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 13:19:17 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:19:17 WARN  ScreenshotListener - Test skipped: Emptysubmit
+2026-02-15 13:19:19 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 13:19:22 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:19:22 INFO  ScreenshotListener - Screenshot captured for failed test: Emptysubmit in class: org.example.tests.Login
+2026-02-15 13:19:22 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Emptysubmit_15_02_2026_01_19_22.png
+2026-02-15 13:19:24 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:19:24 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:19:26 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:19:26 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:19:28 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:19:28 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:19:31 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:19:31 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 13:19:31 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_01_19_31.png
+2026-02-15 13:19:33 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-15 13:19:33 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 13:19:36 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:19:37 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-15 13:23:12 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-15 13:23:13 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 13:23:17 INFO  Login - Orange HRM login sucessfully
+2026-02-15 13:23:18 INFO  Login - Username verified sucessfully
+2026-02-15 13:23:18 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-15 13:23:20 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-15 13:23:23 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:23:23 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-02-15 13:23:25 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:23:29 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:23:31 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:23:34 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:23:36 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:23:38 WARN  ScreenshotListener - Test skipped: vaildforgotpwdtext
+2026-02-15 13:23:40 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:23:43 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 13:23:43 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_01_23_43.png
+2026-02-15 13:23:52 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-15 13:23:52 INFO  Login - Orange HRM Website is dispalyed
+2026-02-15 13:23:55 INFO  Login - error msg displayed sucessfully
+2026-02-15 13:23:56 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-15 13:26:16 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:26:21 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 13:26:21 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_01_26_20.png
+2026-02-15 13:27:29 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 13:27:33 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 13:27:33 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_01_27_32.png
+2026-02-15 14:29:05 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 14:29:54 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 14:29:57 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 14:29:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_02_29_57.png
+2026-02-15 14:34:43 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 14:34:47 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 14:34:47 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_02_34_46.png
+2026-02-15 14:35:08 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 14:35:11 INFO  ScreenshotListener - Screenshot captured for failed test: vaildforgotpwdtext in class: org.example.tests.Login
+2026-02-15 14:35:11 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/vaildforgotpwdtext_15_02_2026_02_35_11.png
+2026-02-15 14:38:03 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-15 14:38:06 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-02-16 10:33:54 INFO  ScreenshotListener - Starting test: Validlogin
+2026-02-16 10:33:54 INFO  Login - Orange HRM Website is dispalyed
+2026-02-16 10:33:56 INFO  Login - Orange HRM login sucessfully
+2026-02-16 10:33:58 INFO  Login - Username verified sucessfully
+2026-02-16 10:33:58 INFO  ScreenshotListener - Test passed: Validlogin
+2026-02-16 10:34:00 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-02-16 10:34:01 INFO  Login - error msg displayed sucessfully
+2026-02-16 10:34:02 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-02-16 10:34:03 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-02-16 10:34:05 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-02-16 10:34:06 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-02-16 10:34:06 INFO  Login - Orange HRM Website is dispalyed
+2026-02-16 10:34:08 INFO  Login - error msg displayed sucessfully
+2026-02-16 10:34:08 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-02-16 12:31:23 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 12:31:26 INFO  Adduser - Logged in sucessfully
+2026-02-16 12:31:31 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 12:31:31 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_12_31_30.png
+2026-02-16 13:19:26 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 13:19:28 INFO  Adduser - Logged in sucessfully
+2026-02-16 13:19:34 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 13:19:34 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_01_19_33.png
+2026-02-16 19:12:37 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:12:41 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:12:57 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 19:12:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_07_12_56.png
+2026-02-16 19:13:15 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:13:19 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:13:24 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 19:13:24 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_07_13_24.png
+2026-02-16 19:15:14 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:15:17 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:15:22 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 19:15:22 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_07_15_22.png
+2026-02-16 19:16:28 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:16:31 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:16:36 INFO  Adduser - Useradded sucessfully
+2026-02-16 19:16:37 INFO  ScreenshotListener - Test passed: adduser
+2026-02-16 19:16:45 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:16:49 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:16:54 INFO  Adduser - Useradded sucessfully
+2026-02-16 19:16:54 INFO  ScreenshotListener - Test passed: adduser
+2026-02-16 19:55:56 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 19:55:59 INFO  Adduser - Logged in sucessfully
+2026-02-16 19:56:05 INFO  Adduser - Useradded sucessfully
+2026-02-16 19:56:05 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 19:56:05 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_07_56_05.png
+2026-02-16 20:02:42 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:02:46 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:02:52 INFO  Adduser - Useradded sucessfully
+2026-02-16 20:02:53 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:02:53 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_02_52.png
+2026-02-16 20:06:40 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:06:43 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:06:49 INFO  Adduser - Useradded sucessfully
+2026-02-16 20:06:59 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:06:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_06_59.png
+2026-02-16 20:08:32 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:08:36 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:08:42 INFO  Adduser - Useradded sucessfully
+2026-02-16 20:08:52 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:08:52 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_08_52.png
+2026-02-16 20:19:48 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:19:51 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:19:57 INFO  Adduser - Useradded sucessfully
+2026-02-16 20:20:08 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:20:08 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_20_07.png
+2026-02-16 20:22:06 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:22:10 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:22:27 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:22:27 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_22_27.png
+2026-02-16 20:22:47 INFO  ScreenshotListener - Starting test: adduser
+2026-02-16 20:22:50 INFO  Adduser - Logged in sucessfully
+2026-02-16 20:23:07 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-16 20:23:07 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_16_02_2026_08_23_06.png
+2026-02-17 10:02:33 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:02:37 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:02:51 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-17 10:02:51 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_17_02_2026_10_02_51.png
+2026-02-17 10:04:09 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:04:12 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:04:28 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-17 10:04:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_17_02_2026_10_04_27.png
+2026-02-17 10:07:39 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:07:42 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:07:57 INFO  ScreenshotListener - Screenshot captured for failed test: adduser in class: org.example.tests.Adduser
+2026-02-17 10:07:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/adduser_17_02_2026_10_07_57.png
+2026-02-17 10:09:30 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:09:32 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:09:37 INFO  Adduser - Useradded sucessfully
+2026-02-17 10:09:37 INFO  ScreenshotListener - Test passed: adduser
+2026-02-17 10:12:02 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:12:04 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:12:05 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-02-17 10:12:05 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_17_02_2026_10_12_05.png
+2026-02-17 10:12:44 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:12:46 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:12:48 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-02-17 10:12:48 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_17_02_2026_10_12_48.png
+2026-02-17 10:17:08 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:17:11 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:17:23 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-02-17 10:17:23 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_17_02_2026_10_17_23.png
+2026-02-17 10:18:18 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:18:20 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:18:34 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-02-17 10:18:34 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_17_02_2026_10_18_33.png
+2026-02-17 10:18:35 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:18:36 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:18:41 INFO  Adduser - Useradded sucessfully
+2026-02-17 10:18:41 INFO  ScreenshotListener - Test passed: adduser
+2026-02-17 10:18:56 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:18:58 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:19:10 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-02-17 10:19:10 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_17_02_2026_10_19_10.png
+2026-02-17 10:19:26 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:19:28 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:19:33 INFO  Adduser - Useradded sucessfully
+2026-02-17 10:19:34 INFO  ScreenshotListener - Test passed: adduser
+2026-02-17 10:20:16 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:20:17 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:20:22 INFO  Adduser - Useradded sucessfully
+2026-02-17 10:20:22 INFO  ScreenshotListener - Test passed: adduser
+2026-02-17 10:21:30 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-02-17 10:21:31 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:21:34 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-02-17 10:21:44 INFO  ScreenshotListener - Starting test: adduser
+2026-02-17 10:21:46 INFO  Adduser - Logged in sucessfully
+2026-02-17 10:21:51 INFO  Adduser - Useradded sucessfully
+2026-02-17 10:21:51 INFO  ScreenshotListener - Test passed: adduser
+2026-03-02 12:17:39 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-02 12:17:39 INFO  Login - Orange HRM Website is dispalyed
+2026-03-02 12:17:43 INFO  Login - Orange HRM login sucessfully
+2026-03-02 12:17:44 INFO  Login - Username verified sucessfully
+2026-03-02 12:17:44 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-02 12:17:46 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-02 12:17:48 INFO  Login - error msg displayed sucessfully
+2026-03-02 12:17:49 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-02 12:17:50 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-02 12:17:53 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-02 12:17:55 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-02 12:17:55 INFO  Login - Orange HRM Website is dispalyed
+2026-03-02 12:17:57 INFO  Login - error msg displayed sucessfully
+2026-03-02 12:17:58 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-21 12:01:19 INFO  positiveLogin - signup page dispalyed
+2026-03-21 12:07:56 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-21 12:07:56 INFO  Login - Orange HRM Website is dispalyed
+2026-03-21 12:07:59 INFO  Login - Orange HRM login sucessfully
+2026-03-21 12:08:01 INFO  Login - Username verified sucessfully
+2026-03-21 12:08:01 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-21 12:08:02 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-21 12:08:05 INFO  Login - error msg displayed sucessfully
+2026-03-21 12:08:05 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-21 12:08:07 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-21 12:08:10 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-21 12:08:11 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-21 12:08:11 INFO  Login - Orange HRM Website is dispalyed
+2026-03-21 12:08:15 INFO  Login - error msg displayed sucessfully
+2026-03-21 12:08:15 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-21 12:11:00 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-21 12:11:01 INFO  Login - Orange HRM Website is dispalyed
+2026-03-21 12:11:02 INFO  Login - Orange HRM login sucessfully
+2026-03-21 12:11:04 INFO  Login - Username verified sucessfully
+2026-03-21 12:11:06 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-21 12:11:07 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-21 12:11:08 INFO  Login - error msg displayed sucessfully
+2026-03-21 12:11:08 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-21 12:11:09 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-21 12:11:12 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-21 12:11:13 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-21 12:11:13 INFO  Login - Orange HRM Website is dispalyed
+2026-03-21 12:11:15 INFO  Login - error msg displayed sucessfully
+2026-03-21 12:11:15 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-21 12:11:16 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-21 12:11:18 INFO  Adduser - Logged in sucessfully
+2026-03-21 12:11:20 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-21 12:11:21 INFO  ScreenshotListener - Starting test: adduser
+2026-03-21 12:11:22 INFO  Adduser - Logged in sucessfully
+2026-03-21 12:11:27 INFO  Adduser - Useradded sucessfully
+2026-03-21 12:11:28 INFO  ScreenshotListener - Test passed: adduser
+2026-03-24 15:07:20 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-24 15:07:22 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:07:25 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-24 15:07:27 INFO  ScreenshotListener - Starting test: adduser
+2026-03-24 15:07:29 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:07:35 INFO  Adduser - Useradded sucessfully
+2026-03-24 15:07:35 INFO  ScreenshotListener - Test passed: adduser
+2026-03-24 15:08:34 INFO  ScreenshotListener - Starting test: adduser
+2026-03-24 15:08:36 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:08:41 INFO  Adduser - Useradded sucessfully
+2026-03-24 15:08:41 INFO  ScreenshotListener - Test passed: adduser
+2026-03-24 15:08:43 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-24 15:08:46 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:08:49 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-24 15:17:11 INFO  ScreenshotListener - Starting test: adduser
+2026-03-24 15:17:12 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:17:18 INFO  Adduser - Useradded sucessfully
+2026-03-24 15:17:18 INFO  ScreenshotListener - Test passed: adduser
+2026-03-24 15:17:20 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-24 15:17:22 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:17:25 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-24 15:57:40 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-24 15:57:43 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:57:54 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-24 15:57:54 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_24_03_2026_03_57_54.png
+2026-03-24 15:58:16 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-24 15:58:17 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:58:28 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-24 15:58:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_24_03_2026_03_58_27.png
+2026-03-24 15:59:03 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-24 15:59:05 INFO  Adduser - Logged in sucessfully
+2026-03-24 15:59:08 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-24 15:59:08 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_24_03_2026_03_59_08.png
+2026-03-24 16:03:10 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-24 16:03:12 INFO  Adduser - Logged in sucessfully
+2026-03-24 16:03:14 INFO  ScreenshotListener - Test passed: editaddeduser
+2026-03-27 10:48:29 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 10:48:31 INFO  Adduser - Logged in sucessfully
+2026-03-27 10:48:34 INFO  ScreenshotListener - Test passed: editaddeduser
+2026-03-27 15:27:44 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-27 15:27:44 INFO  Login - Orange HRM Website is dispalyed
+2026-03-27 15:27:46 INFO  Login - Orange HRM login sucessfully
+2026-03-27 15:27:48 INFO  Login - Username verified sucessfully
+2026-03-27 15:27:48 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-27 15:34:05 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 15:34:08 INFO  Adduser - Logged in sucessfully
+2026-03-27 15:34:08 INFO  Adduser - Edit user page is displayed
+2026-03-27 15:34:11 INFO  ScreenshotListener - Test passed: editaddeduser
+2026-03-27 16:15:13 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:15:17 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:15:17 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:15:22 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:15:22 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_15_22.png
+2026-03-27 16:16:12 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:16:15 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:16:15 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:16:20 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:16:20 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_16_20.png
+2026-03-27 16:16:47 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:16:50 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:16:50 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:16:57 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:16:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_16_56.png
+2026-03-27 16:19:58 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:20:01 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:20:01 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:20:09 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:20:09 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_20_09.png
+2026-03-27 16:22:16 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:22:19 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:22:19 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:22:24 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:22:24 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_22_24.png
+2026-03-27 16:23:01 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:23:05 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:23:05 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:23:13 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:23:13 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_23_13.png
+2026-03-27 16:28:00 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:28:02 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:28:02 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:28:09 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:28:09 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_28_08.png
+2026-03-27 16:32:04 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:32:07 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:32:07 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:32:13 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:32:13 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_32_13.png
+2026-03-27 16:32:42 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:32:44 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:32:44 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:32:50 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:32:50 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_32_50.png
+2026-03-27 16:34:03 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:34:06 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:34:06 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:34:13 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:34:13 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_34_12.png
+2026-03-27 16:39:19 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:39:21 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:39:21 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:39:28 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:39:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_39_28.png
+2026-03-27 16:40:06 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:40:09 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:40:09 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:40:17 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:40:17 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_40_16.png
+2026-03-27 16:43:01 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:43:03 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:43:03 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:43:10 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:43:10 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_43_10.png
+2026-03-27 16:49:06 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:49:08 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:49:08 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:49:16 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:49:16 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_49_15.png
+2026-03-27 16:49:40 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-27 16:49:42 INFO  Adduser - Logged in sucessfully
+2026-03-27 16:49:42 INFO  Adduser - Edit user page is displayed
+2026-03-27 16:49:50 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-27 16:49:50 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_27_03_2026_04_49_50.png
+2026-03-30 10:26:18 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:26:21 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:26:21 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:26:26 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:26:26 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_26_26.png
+2026-03-30 10:38:49 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:38:51 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:38:51 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:38:57 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:38:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_38_56.png
+2026-03-30 10:42:42 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:42:44 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:42:44 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:42:50 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:42:50 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_42_50.png
+2026-03-30 10:45:09 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:45:11 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:45:11 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:45:15 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:45:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_45_15.png
+2026-03-30 10:47:17 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:47:18 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:47:18 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:47:23 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:47:23 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_47_23.png
+2026-03-30 10:54:47 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:54:48 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:54:48 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:54:55 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:54:55 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_54_54.png
+2026-03-30 10:56:48 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 10:56:50 INFO  Adduser - Logged in sucessfully
+2026-03-30 10:56:50 INFO  Adduser - Edit user page is displayed
+2026-03-30 10:57:16 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 10:57:16 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_10_57_15.png
+2026-03-30 11:11:16 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:11:18 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:11:18 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:11:35 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:11:35 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_11_34.png
+2026-03-30 11:11:57 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:12:00 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:12:00 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:12:15 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:12:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_12_15.png
+2026-03-30 11:16:02 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:16:03 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:16:03 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:16:09 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:16:09 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_16_08.png
+2026-03-30 11:16:50 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:16:52 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:16:52 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:17:08 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:17:08 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_17_08.png
+2026-03-30 11:17:42 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:17:43 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:17:43 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:17:59 INFO  ScreenshotListener - Test passed: editaddeduser
+2026-03-30 11:19:41 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-30 11:19:41 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:19:42 INFO  Login - Orange HRM login sucessfully
+2026-03-30 11:19:44 INFO  Login - Username verified sucessfully
+2026-03-30 11:19:44 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-30 11:19:45 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-30 11:19:46 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:19:46 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-30 11:19:47 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-30 11:19:49 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-30 11:19:51 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-30 11:19:51 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:19:53 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:19:53 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-30 11:19:54 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:19:55 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:00 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:20:00 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:20:01 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:20:03 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:05 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:20:06 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:20:07 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:09 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:20:11 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:20:12 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:14 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:20:15 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:20:16 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:19 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:20:19 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_20_18.png
+2026-03-30 11:20:20 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:20:21 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:20:21 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:20:37 INFO  ScreenshotListener - Test passed: editaddeduser
+2026-03-30 11:21:56 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:21:58 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:22:00 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:22:00 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_22_00.png
+2026-03-30 11:24:34 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:24:35 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:24:40 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:24:40 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:24:48 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:24:50 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:24:52 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:24:52 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_24_52.png
+2026-03-30 11:26:54 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:26:55 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:27:00 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:27:00 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:27:01 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:27:03 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:27:15 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:27:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_27_14.png
+2026-03-30 11:29:20 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:29:22 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:29:27 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:29:27 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:29:28 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:29:29 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:29:40 ERROR ScreenshotListener - Unexpected error while capturing screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [436d3e774fd9b94aa84ca8912c0658b8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\surya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65028}, goog:processID: 9152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 436d3e774fd9b94aa84ca8912c0658b8
+org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [436d3e774fd9b94aa84ca8912c0658b8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\surya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65028}, goog:processID: 9152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 436d3e774fd9b94aa84ca8912c0658b8
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:561) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:642) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:350) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.example.listeners.ScreenshotListener.onTestFailure(ScreenshotListener.java:34) [test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) [testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-03-30 11:30:14 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:30:16 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:30:20 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:30:21 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:30:21 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:30:23 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:30:35 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:30:35 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_30_35.png
+2026-03-30 11:30:59 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-30 11:30:59 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:31:01 INFO  Login - Orange HRM login sucessfully
+2026-03-30 11:31:02 INFO  Login - Username verified sucessfully
+2026-03-30 11:31:02 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-30 11:31:03 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-30 11:31:04 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:31:04 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-30 11:31:06 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-30 11:31:08 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-30 11:31:09 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-30 11:31:09 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:31:11 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:31:11 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-30 11:31:12 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:31:13 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:31:18 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:31:18 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:31:19 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:31:20 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:31:32 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:31:33 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:31:35 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:31:47 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:31:48 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:31:49 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:32:02 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:32:03 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:32:04 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:32:16 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:32:16 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_32_16.png
+2026-03-30 11:33:54 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:33:55 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:34:03 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:34:03 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:34:04 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:34:05 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:34:18 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:34:18 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_34_18.png
+2026-03-30 11:34:56 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:34:57 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:35:05 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:35:05 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:35:06 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:35:08 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:35:21 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:35:21 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_35_20.png
+2026-03-30 11:35:29 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:35:31 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:35:40 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:35:41 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:35:42 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:35:43 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:35:56 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:35:56 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_35_55.png
+2026-03-30 11:37:10 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:37:11 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:37:26 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:37:26 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:37:27 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:37:28 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:37:31 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-30 11:37:58 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:37:59 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:37:59 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:38:15 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:38:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_38_15.png
+2026-03-30 11:38:46 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:38:47 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:38:47 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:39:03 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:39:03 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_39_02.png
+2026-03-30 11:39:54 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:39:55 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:40:06 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:40:06 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:40:07 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:40:09 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:40:12 INFO  ScreenshotListener - Test passed: Verifyadduser
+2026-03-30 11:40:13 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-03-30 11:40:15 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:40:15 INFO  Adduser - Edit user page is displayed
+2026-03-30 11:40:28 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-03-30 11:40:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_30_03_2026_11_40_27.png
+2026-03-30 11:40:58 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:40:59 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:41:08 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:41:09 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:41:59 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:42:01 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:42:10 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:42:11 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:42:11 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:42:13 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:42:25 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:42:25 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_42_25.png
+2026-03-30 11:42:41 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:42:43 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:42:57 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:42:57 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:42:58 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:42:59 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:43:12 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:43:12 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_43_12.png
+2026-03-30 11:44:49 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:44:50 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:45:06 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:45:06 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:45:07 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:45:08 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:45:11 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:45:11 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_45_11.png
+2026-03-30 11:47:49 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:47:50 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:48:06 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:48:06 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:48:07 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:48:09 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:48:11 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:48:11 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_48_11.png
+2026-03-30 11:57:07 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:57:08 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:57:23 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:57:23 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:57:24 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:57:26 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:57:28 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:57:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_57_28.png
+2026-03-30 11:57:39 INFO  ScreenshotListener - Starting test: Validlogin
+2026-03-30 11:57:39 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:57:41 INFO  Login - Orange HRM login sucessfully
+2026-03-30 11:57:42 INFO  Login - Username verified sucessfully
+2026-03-30 11:57:42 INFO  ScreenshotListener - Test passed: Validlogin
+2026-03-30 11:57:43 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-30 11:57:45 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:57:45 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-30 11:57:46 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-03-30 11:57:48 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-03-30 11:57:49 INFO  ScreenshotListener - Starting test: Invalidlogin
+2026-03-30 11:57:49 INFO  Login - Orange HRM Website is dispalyed
+2026-03-30 11:57:51 INFO  Login - error msg displayed sucessfully
+2026-03-30 11:57:51 INFO  ScreenshotListener - Test passed: Invalidlogin
+2026-03-30 11:57:52 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 11:57:54 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:58:08 INFO  Adduser - Useradded sucessfully
+2026-03-30 11:58:09 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 11:58:10 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:58:11 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:58:13 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:58:14 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:58:15 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:58:17 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:58:18 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:58:20 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:58:22 WARN  ScreenshotListener - Test skipped: Verifyadduser
+2026-03-30 11:58:23 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 11:58:24 INFO  Adduser - Logged in sucessfully
+2026-03-30 11:58:26 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 11:58:26 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_11_58_26.png
+2026-03-30 12:01:01 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 12:01:02 INFO  Adduser - Logged in sucessfully
+2026-03-30 12:01:17 INFO  Adduser - Useradded sucessfully
+2026-03-30 12:01:17 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 12:07:36 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 12:07:37 INFO  Adduser - Logged in sucessfully
+2026-03-30 12:07:52 INFO  Adduser - Useradded sucessfully
+2026-03-30 12:07:53 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 16:01:48 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:01:49 INFO  Login - Logged in sucessfully
+2026-03-30 16:01:51 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:01:51 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_01_51.png
+2026-03-30 16:02:54 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:02:56 INFO  Login - Logged in sucessfully
+2026-03-30 16:02:59 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:02:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_02_59.png
+2026-03-30 16:03:36 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:03:38 INFO  Login - Logged in sucessfully
+2026-03-30 16:03:41 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:03:41 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_03_41.png
+2026-03-30 16:05:00 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:05:01 INFO  Login - Logged in sucessfully
+2026-03-30 16:05:06 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:05:06 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_05_05.png
+2026-03-30 16:07:55 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:07:57 INFO  Login - Logged in sucessfully
+2026-03-30 16:08:01 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:08:01 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_08_01.png
+2026-03-30 16:08:54 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:08:56 INFO  Login - Logged in sucessfully
+2026-03-30 16:08:59 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:08:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_08_59.png
+2026-03-30 16:09:43 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:09:44 INFO  Login - Logged in sucessfully
+2026-03-30 16:09:48 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:09:48 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_09_48.png
+2026-03-30 16:10:36 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:10:38 INFO  Login - Logged in sucessfully
+2026-03-30 16:10:41 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:10:41 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_10_41.png
+2026-03-30 16:12:33 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:12:35 INFO  Login - Logged in sucessfully
+2026-03-30 16:12:40 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:12:40 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_12_39.png
+2026-03-30 16:13:55 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:13:56 INFO  Login - Logged in sucessfully
+2026-03-30 16:14:01 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:14:01 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_14_01.png
+2026-03-30 16:14:35 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:14:37 INFO  Login - Logged in sucessfully
+2026-03-30 16:14:40 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:14:40 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_14_40.png
+2026-03-30 16:16:23 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:16:24 INFO  Login - Logged in sucessfully
+2026-03-30 16:16:28 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:16:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_16_27.png
+2026-03-30 16:20:22 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:20:23 INFO  Login - Logged in sucessfully
+2026-03-30 16:20:32 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:20:32 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_20_32.png
+2026-03-30 16:45:55 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:45:57 INFO  Login - Logged in sucessfully
+2026-03-30 16:46:02 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:46:02 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_46_02.png
+2026-03-30 16:47:06 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 16:47:07 INFO  Login - Logged in sucessfully
+2026-03-30 16:47:12 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 16:47:12 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_04_47_12.png
+2026-03-30 17:22:27 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:22:29 INFO  Login - Logged in sucessfully
+2026-03-30 17:22:34 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 17:22:34 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_05_22_34.png
+2026-03-30 17:22:48 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:22:49 INFO  Login - Logged in sucessfully
+2026-03-30 17:22:54 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 17:22:54 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_05_22_54.png
+2026-03-30 17:23:51 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:23:53 INFO  Login - Logged in sucessfully
+2026-03-30 17:24:08 INFO  ScreenshotListener - Screenshot captured for failed test: addmy_info in class: org.example.tests.My_info
+2026-03-30 17:24:08 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/addmy_info_30_03_2026_05_24_08.png
+2026-03-30 17:25:47 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:25:48 INFO  Login - Logged in sucessfully
+2026-03-30 17:25:53 INFO  ScreenshotListener - Test passed: addmy_info
+2026-03-30 17:27:38 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 17:27:39 INFO  Adduser - Logged in sucessfully
+2026-03-30 17:27:55 INFO  Adduser - Useradded sucessfully
+2026-03-30 17:27:55 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 17:27:56 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 17:27:58 INFO  Adduser - Logged in sucessfully
+2026-03-30 17:27:59 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 17:27:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_05_27_59.png
+2026-03-30 17:40:36 INFO  ScreenshotListener - Starting test: adduser
+2026-03-30 17:40:39 INFO  Adduser - Logged in sucessfully
+2026-03-30 17:40:53 INFO  Adduser - Useradded sucessfully
+2026-03-30 17:40:54 INFO  ScreenshotListener - Test passed: adduser
+2026-03-30 17:40:54 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-03-30 17:40:56 INFO  Adduser - Logged in sucessfully
+2026-03-30 17:40:57 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:40:59 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-03-30 17:40:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_30_03_2026_05_40_58.png
+2026-03-30 17:40:59 INFO  Login - Logged in sucessfully
+2026-03-30 17:41:04 INFO  Login - added personal details sucessfully
+2026-03-30 17:41:04 INFO  ScreenshotListener - Test passed: addmy_info
+2026-03-30 17:43:44 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-30 17:43:44 INFO  Login - === TEST STARTED: addmy_info ===
+2026-03-30 17:43:44 INFO  Login - Initializing OrangeHRM login page
+2026-03-30 17:43:44 INFO  Login - Attempting login with username: admin
+2026-03-30 17:43:45 INFO  Login - Logged in successfully
+2026-03-30 17:43:45 INFO  Login - Navigating to My Info page
+2026-03-30 17:43:45 INFO  Login - Filling and submitting personal details form
+2026-03-30 17:43:50 INFO  Login - Asserting success message
+2026-03-30 17:43:50 INFO  Login - Assertion passed - Personal details saved successfully
+2026-03-30 17:43:50 INFO  Login - === TEST COMPLETED: addmy_info ===
+2026-03-30 17:43:50 INFO  ScreenshotListener - Test passed: addmy_info
+2026-03-30 18:27:16 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-30 18:27:20 INFO  ScreenshotListener - Screenshot captured for failed test: contactdetails in class: org.example.tests.My_info
+2026-03-30 18:27:20 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/contactdetails_30_03_2026_06_27_20.png
+2026-03-30 18:29:47 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-30 18:30:01 INFO  ScreenshotListener - Screenshot captured for failed test: contactdetails in class: org.example.tests.My_info
+2026-03-30 18:30:01 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/contactdetails_30_03_2026_06_30_01.png
+2026-03-30 18:30:47 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-30 18:31:01 INFO  ScreenshotListener - Screenshot captured for failed test: contactdetails in class: org.example.tests.My_info
+2026-03-30 18:31:01 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/contactdetails_30_03_2026_06_31_01.png
+2026-03-31 10:35:48 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-31 10:36:04 INFO  ScreenshotListener - Screenshot captured for failed test: contactdetails in class: org.example.tests.My_info
+2026-03-31 10:36:04 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/contactdetails_31_03_2026_10_36_03.png
+2026-03-31 10:40:45 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-31 10:40:52 INFO  ScreenshotListener - Test passed: contactdetails
+2026-03-31 10:41:42 INFO  ScreenshotListener - Starting test: adduser
+2026-03-31 10:41:44 INFO  Adduser - Logged in sucessfully
+2026-03-31 10:41:59 INFO  Adduser - Useradded sucessfully
+2026-03-31 10:41:59 INFO  ScreenshotListener - Test passed: adduser
+2026-03-31 10:56:09 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-31 10:56:09 INFO  Login - === TEST STARTED: contactdetails ===
+2026-03-31 10:56:09 INFO  Login - Initializing OrangeHRM login page
+2026-03-31 10:56:09 INFO  Login - Attempting login with username: admin
+2026-03-31 10:56:11 INFO  Login - Logged in successfully
+2026-03-31 10:56:11 INFO  Login - Navigating to My Info - Contact Details section
+2026-03-31 10:56:11 INFO  Login - Filling contact details form
+2026-03-31 10:56:15 INFO  Login - Contact details submitted successfully
+2026-03-31 10:56:15 INFO  Login - === TEST COMPLETED: contactdetails ===
+2026-03-31 10:56:15 INFO  ScreenshotListener - Test passed: contactdetails
+2026-03-31 10:56:52 INFO  ScreenshotListener - Starting test: contactdetails
+2026-03-31 10:56:52 INFO  Login - === TEST STARTED: contactdetails ===
+2026-03-31 10:56:52 INFO  Login - Initializing OrangeHRM login page
+2026-03-31 10:56:52 INFO  Login - Attempting login with username: admin
+2026-03-31 10:56:53 INFO  Login - Logged in successfully
+2026-03-31 10:56:53 INFO  Login - Navigating to My Info - Contact Details section
+2026-03-31 10:56:53 INFO  Login - Filling contact details form
+2026-03-31 10:56:58 INFO  Login - Contact details submitted successfully
+2026-03-31 10:56:58 INFO  Login - === TEST COMPLETED: contactdetails ===
+2026-03-31 10:56:58 INFO  ScreenshotListener - Test passed: contactdetails
+2026-03-31 10:56:59 INFO  ScreenshotListener - Starting test: addmy_info
+2026-03-31 10:56:59 INFO  Login - === TEST STARTED: addmy_info ===
+2026-03-31 10:56:59 INFO  Login - Initializing OrangeHRM login page
+2026-03-31 10:56:59 INFO  Login - Attempting login with username: admin
+2026-03-31 10:57:00 INFO  Login - Logged in successfully
+2026-03-31 10:57:00 INFO  Login - Navigating to My Info page
+2026-03-31 10:57:00 INFO  Login - Filling and submitting personal details form
+2026-03-31 10:57:05 INFO  Login - Asserting success message
+2026-03-31 10:57:05 INFO  Login - Assertion passed - Personal details saved successfully
+2026-03-31 10:57:05 INFO  Login - === TEST COMPLETED: addmy_info ===
+2026-03-31 10:57:05 INFO  ScreenshotListener - Test passed: addmy_info
