@@ -50,6 +50,7 @@ public class Orangelogin {
         driver.manage().window().maximize();
         waithelpers.checkVisibility(driver, uname);
         driver.findElement(login).click();
+        waithelpers.checkVisibility(driver,uemptymsg);
         String emsg = driver.findElement(uemptymsg).getText();
         String epwd = driver.findElement(pwdemptymsg).getText();
         return new String[]{emsg, epwd};

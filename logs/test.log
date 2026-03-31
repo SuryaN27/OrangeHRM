@@ -1092,3 +1092,9 @@ Session ID: 436d3e774fd9b94aa84ca8912c0658b8
 2026-03-31 13:02:38 INFO  Login - Contact details submitted successfully
 2026-03-31 13:02:38 INFO  Login - === TEST COMPLETED: contactdetails ===
 2026-03-31 13:02:38 INFO  ScreenshotListener - Test passed: contactdetails
+2026-03-31 13:18:42 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-31 13:18:44 INFO  Login - error msg displayed sucessfully
+2026-03-31 13:18:44 INFO  ScreenshotListener - Test passed: Emptysubmit
+2026-03-31 13:21:14 INFO  ScreenshotListener - Starting test: Emptysubmit
+2026-03-31 13:21:15 INFO  Login - error msg displayed sucessfully
+2026-03-31 13:21:15 INFO  ScreenshotListener - Test passed: Emptysubmit
