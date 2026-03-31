@@ -9,8 +9,9 @@
     <test verbose="2" preserve-order="true"
           name="Seleniumfraework">
         <classes>
-            <class name="org.example.tests.Login"/>
             <class name="org.example.tests.Adduser"/>
+            <class name="org.example.tests.Login"/>
+            <class name="org.example.tests.My_info"/>
         </classes>
     </test>
 </suite>

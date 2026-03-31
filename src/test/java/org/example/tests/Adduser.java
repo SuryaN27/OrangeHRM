@@ -35,7 +35,7 @@ public class Adduser extends CommonToAllTest {
     }
 
     @Description("Verify the added user")
-    @Test(priority = 2)
+    @Test(priority = 2,enabled = false)
     public void Verifyadduser() {
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
         orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));

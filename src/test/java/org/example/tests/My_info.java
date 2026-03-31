@@ -46,7 +46,7 @@ public class My_info extends CommonToAllTest {
     }
 
     @Description("Adding contact details")
-    @Test
+    @Test(priority = 2)
     public void contactdetails() {
         logger.info("=== TEST STARTED: contactdetails ===");
 
