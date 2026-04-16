@@ -9,8 +9,6 @@ import org.example.listeners.ScreenshotListener;
 import org.example.pages.Orangedashboard;
 import org.example.pages.Orangelogin;
 import org.example.utils.PropertyReader;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
@@ -19,50 +17,50 @@ import org.apache.logging.log4j.Logger;
 
 
 @Listeners(ScreenshotListener.class)
-@Test(retryAnalyzer = RetryAnalyzer.class)
+//@Test(retryAnalyzer = RetryAnalyzer.class)
 public class Login extends CommonToAllTest {
     private static final Logger logger = LogManager.getLogger(Login.class);
 
-    @Description("Login with vald careadentials")
-    @Test(priority = 1)
-    public void Validlogin() {
+    @Description("Login with valid careadentials")
+    @Test(priority = 1,retryAnalyzer = RetryAnalyzer.class)
+    public void validLogin() {
        // WebDriver driver = new ChromeDriver();
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
         logger.info("Orange HRM Website is dispalyed");
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Orange HRM login sucessfully");
         Orangedashboard orangedashboard = new Orangedashboard(DriverManager.getDriver());
         String uname = orangedashboard.Verifyusername(PropertyReader.readkey("ohr_expected_username"));
-        Assert.assertEquals(PropertyReader.readkey("ohr_expected_username"), uname);
+        Assert.assertEquals(uname, PropertyReader.readkey("ohr_expected_username"));
         logger.info("Username verified sucessfully");
 
     }
 
-    @Description("Login with invald careadentials")
-    @Test(priority = 4)
-    public void Invalidlogin() {
+    @Description("Login with invalid careadentials")
+    @Test(priority = 4, retryAnalyzer = RetryAnalyzer.class)
+    public void invalidLogin() {
        // WebDriver driver = new ChromeDriver();
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
         logger.info("Orange HRM Website is dispalyed");
-        String errottxt = orangelogin.Invalidlogin(PropertyReader.readkey("wohr_username"), PropertyReader.readkey("wohr_password"));
+        String errottxt = orangelogin.invalidLogin(PropertyReader.readkey("wohr_username"), PropertyReader.readkey("wohr_password"));
         Assert.assertEquals(PropertyReader.readkey("invalidmsg"), errottxt);
         logger.info("error msg displayed sucessfully");
 
     }
 
     @Description("Verify that the validation message is displayed for empty submit")
-    @Test(priority = 2)
-    public void Emptysubmit() {
+    @Test(priority = 2, retryAnalyzer = RetryAnalyzer.class)
+    public void emptySubmit() {
       //  WebDriver driver = new ChromeDriver();
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
-        String[] errors = orangelogin.Emptylogin();
+        String[] errors = orangelogin.emptyLogin();
         logger.info("error msg displayed sucessfully");
         Assert.assertEquals(errors[0], "Required");
         Assert.assertEquals(errors[1], "Required");
 
     }
-    @Description("fooelik")
-    @Test(priority = 3)
+    @Description("fooelink")
+    @Test(priority = 3, retryAnalyzer = RetryAnalyzer.class)
     public void vaildforgotpwdtext(){
         Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
         String fwdtext=orangelogin.Forgotpwd();

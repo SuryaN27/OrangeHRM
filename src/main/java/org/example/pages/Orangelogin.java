@@ -26,7 +26,7 @@ public class Orangelogin {
      private By forgotpwdlink =By.xpath("//p[text()=\"Forgot your password? \"]");
      private By forgottxt= By.xpath("//p[text()=\"The OrangeHRM  system is not configured to receive email notifications. Please contact your OrangeHRM administrator to reset your password\"]");
 
-    public String Invalidlogin(String name, String password) {
+    public String invalidLogin(String name, String password) {
         driver.get(PropertyReader.readkey("orange_url"));
         driver.manage().window().maximize();
         waithelpers.checkVisibility(driver,uname);
@@ -37,7 +37,7 @@ public class Orangelogin {
         String errortext = driver.findElement(errormsg).getText();
         return errortext;
     }
-    public void validlogin(String name, String password) {
+    public void validLogin(String name, String password) {
         driver.get(PropertyReader.readkey("orange_url"));
         driver.manage().window().maximize();
         waithelpers.checkVisibility(driver,uname);
@@ -45,7 +45,7 @@ public class Orangelogin {
         driver.findElement(pwd).sendKeys(password);
         driver.findElement(login).click();
     }
-    public String[] Emptylogin() {
+    public String[] emptyLogin() {
         driver.get(PropertyReader.readkey("orange_url"));
         driver.manage().window().maximize();
         waithelpers.checkVisibility(driver, uname);

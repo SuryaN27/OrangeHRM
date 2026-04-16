@@ -28,7 +28,7 @@ public class My_info extends CommonToAllTest {
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
 
         logger.info("Attempting login with username: {}", PropertyReader.readkey("ohr_username"));
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Logged in successfully");
 
         logger.info("Navigating to My Info page");
@@ -54,7 +54,7 @@ public class My_info extends CommonToAllTest {
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
 
         logger.info("Attempting login with username: {}", PropertyReader.readkey("ohr_username"));
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Logged in successfully");
 
         logger.info("Navigating to My Info - Contact Details section");
@@ -65,5 +65,11 @@ public class My_info extends CommonToAllTest {
         logger.info("Contact details submitted successfully");
 
         logger.info("=== TEST COMPLETED: contactdetails ===");
+    }
+    public void emergencyDetails(){
+        Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        Myinfo myinfo = new Myinfo(DriverManager.getDriver());
+        myinfo.emergencyDetails();
     }
 }

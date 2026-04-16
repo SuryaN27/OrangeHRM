@@ -24,7 +24,7 @@ public class Adduser extends CommonToAllTest {
     @Test(priority = 1)
     public void adduser() throws InterruptedException {
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Logged in sucessfully");
         Usermanagement usermanagement = new Usermanagement(DriverManager.getDriver());
         usermanagement.adduser(PropertyReader.readkey("employeename"), PropertyReader.readkey("username"), PropertyReader.readkey("addpwd"));
@@ -38,7 +38,7 @@ public class Adduser extends CommonToAllTest {
     @Test(priority = 2,enabled = false)
     public void Verifyadduser() {
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Logged in sucessfully");
         Usermanagement usermanagement = new Usermanagement(DriverManager.getDriver());
         usermanagement.verifyuser();
@@ -50,7 +50,7 @@ public class Adduser extends CommonToAllTest {
     @Test(priority = 3,enabled = false)
     public void editaddeduser() throws InterruptedException {
         Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
-        orangelogin.validlogin(PropertyReader.readkey("ohr_username"),PropertyReader.readkey("ohr_password"));
+        orangelogin.validLogin(PropertyReader.readkey("ohr_username"),PropertyReader.readkey("ohr_password"));
         logger.info("Logged in sucessfully");
         Usermanagement usermanagement=new Usermanagement(DriverManager.getDriver());
         logger.info("Edit user page is displayed");

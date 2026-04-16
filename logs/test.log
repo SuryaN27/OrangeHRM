@@ -1151,3 +1151,50 @@ Session ID: 436d3e774fd9b94aa84ca8912c0658b8
 2026-03-31 13:33:58 INFO  Login - Contact details submitted successfully
 2026-03-31 13:33:58 INFO  Login - === TEST COMPLETED: contactdetails ===
 2026-03-31 13:33:58 INFO  ScreenshotListener - Test passed: contactdetails
+2026-04-10 11:37:58 INFO  ScreenshotListener - Starting test: adduser
+2026-04-10 11:38:04 INFO  Adduser - Logged in sucessfully
+2026-04-10 11:38:22 INFO  Adduser - Useradded sucessfully
+2026-04-10 11:38:22 INFO  ScreenshotListener - Test passed: adduser
+2026-04-10 11:38:24 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-04-10 11:38:27 INFO  Adduser - Logged in sucessfully
+2026-04-10 11:38:33 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-04-10 11:38:33 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_10_04_2026_11_38_33.png
+2026-04-10 11:38:35 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-04-10 11:38:38 INFO  Adduser - Logged in sucessfully
+2026-04-10 11:38:38 INFO  Adduser - Edit user page is displayed
+2026-04-10 11:38:56 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-04-10 11:38:56 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_10_04_2026_11_38_56.png
+2026-04-15 11:33:59 INFO  ScreenshotListener - Starting test: validLogin
+2026-04-15 11:33:59 INFO  Login - Orange HRM Website is dispalyed
+2026-04-15 11:34:02 INFO  Login - Orange HRM login sucessfully
+2026-04-15 11:34:05 INFO  Login - Username verified sucessfully
+2026-04-15 11:34:05 INFO  ScreenshotListener - Test passed: validLogin
+2026-04-15 11:34:07 INFO  ScreenshotListener - Starting test: emptySubmit
+2026-04-15 11:34:10 INFO  Login - error msg displayed sucessfully
+2026-04-15 11:34:10 INFO  ScreenshotListener - Test passed: emptySubmit
+2026-04-15 11:34:12 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-04-15 11:34:15 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-04-15 11:34:17 INFO  ScreenshotListener - Starting test: invalidLogin
+2026-04-15 11:34:17 INFO  Login - Orange HRM Website is dispalyed
+2026-04-15 11:34:20 INFO  Login - error msg displayed sucessfully
+2026-04-15 11:34:20 INFO  ScreenshotListener - Test passed: invalidLogin
+2026-04-15 16:32:24 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:32:38 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:32:40 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:32:53 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:32:55 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:33:08 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:33:09 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:33:23 INFO  ScreenshotListener - Screenshot captured for failed test: emergencyDetails in class: org.example.tests.My_info
+2026-04-15 16:33:23 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/emergencyDetails_15_04_2026_04_33_23.png
+2026-04-15 16:38:15 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:38:21 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:38:23 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:38:29 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:38:31 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:38:36 WARN  ScreenshotListener - Test skipped: emergencyDetails
+2026-04-15 16:38:38 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-15 16:38:44 INFO  ScreenshotListener - Screenshot captured for failed test: emergencyDetails in class: org.example.tests.My_info
+2026-04-15 16:38:44 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/emergencyDetails_15_04_2026_04_38_44.png
+2026-04-16 11:19:01 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-16 11:19:09 INFO  ScreenshotListener - Test passed: emergencyDetails
