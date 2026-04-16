@@ -46,10 +46,20 @@ public class Myinfo {
    private By homenum=By.xpath("//label[text()=\"Home\"]/following::input[1]");
    private By mobile=By.xpath("//label[text()=\"Mobile\"]/following::input[1]");
    private By work=By.xpath("//label[text()=\"Work\"]/following::input[1]");
-
     //Email
     private By wemail= By.xpath("//label[text()=\"Work Email\"]/following::input[1]");
     private By oemail=By.xpath("//label[text()=\"Other Email\"]/following::input[1]");
+
+    //Emergency contact
+    private By assignedecontact=By.xpath("//h6[text()=\"Assigned Emergency Contacts\"]");
+    private By econtact= By.xpath("//a [text()=\"Emergency Contacts\"]");
+    private By eaddbtn=By.xpath("(//i [@class=\"oxd-icon bi-plus oxd-button-icon\"])[1]");
+    private By emergemcynane=By.xpath("//label[text()=\"Name\"]/following::input[1]");
+    private By eRelationship=By.xpath("//label[text()=\"Relationship\"]/following::input[1]");
+    private By hometelephone=By.xpath("//label[text()=\"Home Telephone\"]/following::input[1]");
+    private By emobile=By.xpath("//label[text()=\"Mobile\"]/following::input[1]");
+    private By worktelephone=By.xpath("//label[text()=\"Work Telephone\"]/following::input[1]");
+    private By esavebtn=By.xpath("//div[@class=\"oxd-form-actions\"]//button[2]");
 
 
     public String addmyinfo(){
@@ -144,6 +154,21 @@ public class Myinfo {
         driver.findElement(wemail).sendKeys(PropertyReader.readkey("webmail"));
         driver.findElement(oemail).sendKeys(PropertyReader.readkey("oemail"));
         driver.findElement(savebtn).click();
+    }
+
+    public void emergencyDetails() {
+        waithelpers.checkVisibility(driver,myinfo);
+        driver.findElement(myinfo).click();
+     waithelpers.checkVisibility(driver,econtact);
+     driver.findElement(econtact).click();
+     waithelpers.checkVisibility(driver, assignedecontact);
+     driver.findElement(eaddbtn).click();
+     driver.findElement(emergemcynane).sendKeys(PropertyReader.readkey("ename"));
+     driver.findElement(eRelationship).sendKeys(PropertyReader.readkey("relationship"));
+     driver.findElement(hometelephone).sendKeys(PropertyReader.readkey("telephone"));
+     driver.findElement(emobile).sendKeys(PropertyReader.readkey("emobile"));
+     driver.findElement(worktelephone).sendKeys(PropertyReader.readkey("worktelephone"));
+     driver.findElement(esavebtn).click();
     }
 }
 
