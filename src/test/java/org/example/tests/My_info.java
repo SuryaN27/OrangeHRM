@@ -66,10 +66,18 @@ public class My_info extends CommonToAllTest {
 
         logger.info("=== TEST COMPLETED: contactdetails ===");
     }
+    @Description("Adding contact details")
+    @Test(priority = 3)
     public void emergencyDetails(){
+        logger.info("=== TEST STARTED: emergencycontactdetails ===");
+        logger.info("Initializing OrangeHRM login page");
         Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
+        logger.info("Attempting login with username: {}", PropertyReader.readkey("ohr_username"));
         orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        logger.info("Logged in successfully");
         Myinfo myinfo = new Myinfo(DriverManager.getDriver());
+        logger.info("Filling emergency contact details form");
         myinfo.emergencyDetails();
+        logger.info("Emergency Contact details submitted successfully");
     }
 }
