@@ -1198,3 +1198,181 @@ Session ID: 436d3e774fd9b94aa84ca8912c0658b8
 2026-04-15 16:38:44 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/emergencyDetails_15_04_2026_04_38_44.png
 2026-04-16 11:19:01 INFO  ScreenshotListener - Starting test: emergencyDetails
 2026-04-16 11:19:09 INFO  ScreenshotListener - Test passed: emergencyDetails
+2026-04-16 12:06:44 INFO  ScreenshotListener - Starting test: adduser
+2026-04-16 12:06:46 INFO  Adduser - Logged in sucessfully
+2026-04-16 12:07:01 INFO  Adduser - Useradded sucessfully
+2026-04-16 12:07:01 INFO  ScreenshotListener - Test passed: adduser
+2026-04-16 12:07:02 INFO  ScreenshotListener - Starting test: validLogin
+2026-04-16 12:07:02 INFO  Login - Orange HRM Website is dispalyed
+2026-04-16 12:07:04 INFO  Login - Orange HRM login sucessfully
+2026-04-16 12:07:05 INFO  Login - Username verified sucessfully
+2026-04-16 12:07:05 INFO  ScreenshotListener - Test passed: validLogin
+2026-04-16 12:07:07 INFO  ScreenshotListener - Starting test: emptySubmit
+2026-04-16 12:07:08 INFO  Login - error msg displayed sucessfully
+2026-04-16 12:07:08 INFO  ScreenshotListener - Test passed: emptySubmit
+2026-04-16 12:07:10 INFO  ScreenshotListener - Starting test: vaildforgotpwdtext
+2026-04-16 12:07:12 INFO  ScreenshotListener - Test passed: vaildforgotpwdtext
+2026-04-16 12:07:13 INFO  ScreenshotListener - Starting test: invalidLogin
+2026-04-16 12:07:13 INFO  Login - Orange HRM Website is dispalyed
+2026-04-16 12:07:15 INFO  Login - error msg displayed sucessfully
+2026-04-16 12:07:15 INFO  ScreenshotListener - Test passed: invalidLogin
+2026-04-16 12:07:16 INFO  ScreenshotListener - Starting test: addmy_info
+2026-04-16 12:07:16 INFO  Login - === TEST STARTED: addmy_info ===
+2026-04-16 12:07:16 INFO  Login - Initializing OrangeHRM login page
+2026-04-16 12:07:16 INFO  Login - Attempting login with username: admin
+2026-04-16 12:07:18 INFO  Login - Logged in successfully
+2026-04-16 12:07:18 INFO  Login - Navigating to My Info page
+2026-04-16 12:07:18 INFO  Login - Filling and submitting personal details form
+2026-04-16 12:07:22 INFO  Login - Asserting success message
+2026-04-16 12:07:22 INFO  Login - Assertion passed - Personal details saved successfully
+2026-04-16 12:07:22 INFO  Login - === TEST COMPLETED: addmy_info ===
+2026-04-16 12:07:22 INFO  ScreenshotListener - Test passed: addmy_info
+2026-04-16 12:07:23 INFO  ScreenshotListener - Starting test: contactdetails
+2026-04-16 12:07:23 INFO  Login - === TEST STARTED: contactdetails ===
+2026-04-16 12:07:23 INFO  Login - Initializing OrangeHRM login page
+2026-04-16 12:07:23 INFO  Login - Attempting login with username: admin
+2026-04-16 12:07:26 INFO  Login - Logged in successfully
+2026-04-16 12:07:26 INFO  Login - Navigating to My Info - Contact Details section
+2026-04-16 12:07:26 INFO  Login - Filling contact details form
+2026-04-16 12:07:30 INFO  Login - Contact details submitted successfully
+2026-04-16 12:07:30 INFO  Login - === TEST COMPLETED: contactdetails ===
+2026-04-16 12:07:30 INFO  ScreenshotListener - Test passed: contactdetails
+2026-04-16 12:07:31 INFO  ScreenshotListener - Starting test: emergencyDetails
+2026-04-16 12:07:31 INFO  Login - === TEST STARTED: emergencycontactdetails ===
+2026-04-16 12:07:31 INFO  Login - Initializing OrangeHRM login page
+2026-04-16 12:07:31 INFO  Login - Attempting login with username: admin
+2026-04-16 12:07:33 INFO  Login - Logged in successfully
+2026-04-16 12:07:33 INFO  Login - Filling emergency contact details form
+2026-04-16 12:07:36 INFO  Login - Emergency Contact details submitted successfully
+2026-04-16 12:07:36 INFO  ScreenshotListener - Test passed: emergencyDetails
+2026-04-16 12:10:50 INFO  ScreenshotListener - Starting test: adduser
+2026-04-16 12:10:52 INFO  Adduser - Logged in sucessfully
+2026-04-16 12:11:08 INFO  Adduser - Useradded sucessfully
+2026-04-16 12:11:08 INFO  ScreenshotListener - Test passed: adduser
+2026-04-16 12:11:09 INFO  ScreenshotListener - Starting test: Verifyadduser
+2026-04-16 12:11:14 INFO  Adduser - Logged in sucessfully
+2026-04-16 12:11:16 INFO  ScreenshotListener - Screenshot captured for failed test: Verifyadduser in class: org.example.tests.Adduser
+2026-04-16 12:11:16 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/Verifyadduser_16_04_2026_12_11_16.png
+2026-04-16 12:11:18 INFO  ScreenshotListener - Starting test: editaddeduser
+2026-04-16 12:11:19 INFO  Adduser - Logged in sucessfully
+2026-04-16 12:11:19 INFO  Adduser - Edit user page is displayed
+2026-04-16 12:11:35 INFO  ScreenshotListener - Screenshot captured for failed test: editaddeduser in class: org.example.tests.Adduser
+2026-04-16 12:11:35 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/editaddeduser_16_04_2026_12_11_35.png
+2026-04-16 15:22:19 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:22:21 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:22:25 INFO  ScreenshotListener - Test passed: searchSystemusers
+2026-04-16 15:36:28 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:36:30 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:36:42 INFO  ScreenshotListener - Test passed: searchSystemusers
+2026-04-16 15:38:00 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:38:03 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:38:05 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 15:38:07 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:38:10 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:38:13 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 15:38:15 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:38:17 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:38:20 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 15:38:22 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:38:26 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:38:29 INFO  ScreenshotListener - Screenshot captured for failed test: searchSystemusers in class: org.example.tests.Adduser
+2026-04-16 15:38:29 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/searchSystemusers_16_04_2026_03_38_29.png
+2026-04-16 15:39:07 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:39:10 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:39:22 INFO  ScreenshotListener - Test passed: searchSystemusers
+2026-04-16 15:51:53 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 15:51:58 INFO  Adduser - Logged in sucessfully
+2026-04-16 15:52:03 INFO  ScreenshotListener - Test passed: searchSystemusers
+2026-04-16 16:05:18 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:05:20 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:05:26 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:06:54 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:06:58 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:07:02 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:07:49 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:07:51 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:08:04 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:08:13 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:08:17 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:08:30 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:08:52 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:08:58 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:09:18 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:18:54 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:19:16 WARN  ScreenshotListener - Test skipped: resetsearchSystemusers
+2026-04-16 16:19:17 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:19:39 WARN  ScreenshotListener - Test skipped: resetsearchSystemusers
+2026-04-16 16:19:41 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:19:45 WARN  ScreenshotListener - Test skipped: resetsearchSystemusers
+2026-04-16 16:19:47 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:19:49 ERROR ScreenshotListener - Unexpected error while capturing screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.56)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2612dfce07625b604989916486b25f6f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.56, chrome: {chromedriverVersion: 147.0.7727.57 (b4f28b5637d0..., userDataDir: C:\Users\surya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57108}, goog:processID: 27176, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57108/devtoo..., se:cdpVersion: 147.0.7727.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2612dfce07625b604989916486b25f6f
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.56)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2612dfce07625b604989916486b25f6f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.56, chrome: {chromedriverVersion: 147.0.7727.57 (b4f28b5637d0..., userDataDir: C:\Users\surya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57108}, goog:processID: 27176, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57108/devtoo..., se:cdpVersion: 147.0.7727.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2612dfce07625b604989916486b25f6f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:561) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:642) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:350) ~[selenium-remote-driver-4.39.0.jar:?]
+	at org.example.listeners.ScreenshotListener.onTestFailure(ScreenshotListener.java:34) [test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) [testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-04-16 16:20:08 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 16:20:26 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 16:20:29 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 16:20:50 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 16:20:53 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 16:21:14 WARN  ScreenshotListener - Test skipped: searchSystemusers
+2026-04-16 16:21:16 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 16:21:20 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:21:33 INFO  ScreenshotListener - Test passed: searchSystemusers
+2026-04-16 16:21:49 INFO  ScreenshotListener - Starting test: resetsearchSystemusers
+2026-04-16 16:21:52 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:22:00 INFO  ScreenshotListener - Test passed: resetsearchSystemusers
+2026-04-16 16:28:29 INFO  ScreenshotListener - Starting test: searchSystemusers
+2026-04-16 16:28:32 INFO  Adduser - Logged in sucessfully
+2026-04-16 16:28:38 INFO  ScreenshotListener - Test passed: searchSystemusers

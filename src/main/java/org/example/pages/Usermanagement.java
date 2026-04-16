@@ -21,7 +21,6 @@ public class Usermanagement {
         this.driver = driver;
         this.js= (JavascriptExecutor) driver;
     }
-
     private By admin=By.xpath("//span[text()=\"Admin\"]");
     private By adduser= By.xpath("//h6[text()=\"Add User\"]");
     private By addbtn=By.xpath("//div[@class=\"orangehrm-header-container\"]/button");
@@ -42,6 +41,9 @@ public class Usermanagement {
     private By getVrfyuser= By.xpath("((//div[@class=\"oxd-table-row oxd-table-row--with-border\"])[8]/div/div)[2]");
     private By recfond= By.xpath("//span[contains(normalize-space(),'Records Found')]");
     private By edituser =By.xpath("(//i[@class=\"oxd-icon bi-pencil-fill\"])[7]");
+    private By seachBtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[2]");
+    private By vsname=By.xpath("//div[contains(@class,\"oxd-table-cell\") and normalize-space()=\"admin4\"]");
+    private By resetbtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[1]");
     JavascriptExecutor js= (JavascriptExecutor) driver;
    public void adduser(String emplyeename, String usernames, String pwds) throws InterruptedException {
        //driver.get(PropertyReader.readkey("url"));
@@ -123,6 +125,48 @@ public class Usermanagement {
         log.info("button clicked");
         waithelpers.checkVisibility(driver, admin);
     }
+
+    public String searchSystemusers() {
+       waithelpers.checkVisibility(driver,admin);
+        driver.findElement(admin).click();
+        waithelpers.checkVisibility(driver, recfond);
+        driver.findElement(username).sendKeys(PropertyReader.readkey("searchusername"));
+        driver.findElement(userrole).click();
+        waithelpers.checkVisibility(driver,statusoptn);
+        driver.findElement(statusoptn).click();
+        driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
+        waithelpers.checkVisibility(driver,employee_name);
+        driver.findElement(employee_name).click();
+        driver.findElement(status).click();
+        waithelpers.checkVisibility(driver,statusoptn);
+        driver.findElement(statusoptn).click();
+        waithelpers.checkVisibility(driver,seachBtn);
+        driver.findElement(seachBtn).click();
+        waithelpers.checkVisibility(driver,vsname);
+        String searchedname=driver.findElement(vsname).getText();
+        return searchedname;
+   }
+   public String resetsearchSystemusers() throws InterruptedException {
+       waithelpers.checkVisibility(driver,admin);
+       driver.findElement(admin).click();
+       waithelpers.checkVisibility(driver, recfond);
+       driver.findElement(username).sendKeys(PropertyReader.readkey("searchusername"));
+       driver.findElement(userrole).click();
+       waithelpers.checkVisibility(driver,statusoptn);
+       driver.findElement(statusoptn).click();
+       driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
+       waithelpers.checkVisibility(driver,employee_name);
+       driver.findElement(employee_name).click();
+       driver.findElement(status).click();
+       waithelpers.checkVisibility(driver,statusoptn);
+       driver.findElement(statusoptn).click();
+       Thread.sleep(2000);
+       driver.findElement(resetbtn).click();
+       waithelpers.checkVisibility(driver,username);
+       String emptyusername=driver.findElement(username).getAttribute("value");
+       return emptyusername;
+
+   }
 
 
 
