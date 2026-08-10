@@ -63,13 +63,15 @@ public class Myinfo {
 
 
     public String addmyinfo(){
-        log.info("Navigating to My Info section");
+        log.info("Navigating into to My Info section");
         waithelpers.checkVisibility(driver,myinfo);
         driver.findElement(myinfo).click();
         waithelpers.checkVisibility(driver,personaldetails);
         log.info("Personal Details page loaded");
+        waithelpers.checkVisibility(driver,empfullname);
 
         log.debug("Entering First Name");
+        waithelpers.checkVisibility(driver,fristname);
         driver.findElement(fristname).click();
         driver.findElement(fristname).sendKeys(Keys.CONTROL+"a");
         driver.findElement(fristname).sendKeys(Keys.DELETE);
@@ -139,6 +141,7 @@ public class Myinfo {
         waithelpers.checkVisibility(driver,contactdetails);
         driver.findElement(contactdetails).click();
         waithelpers.checkVisibility(driver,address);
+        waithelpers.checkVisibility(driver,street1);
         driver.findElement(street1).click();
         driver.findElement(street1).sendKeys(PropertyReader.readkey("Street1"));
         driver.findElement(street2).sendKeys(PropertyReader.readkey("Street2"));

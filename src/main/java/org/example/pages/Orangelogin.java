@@ -24,7 +24,7 @@ public class Orangelogin {
     private By uemptymsg = By.xpath("//input[@name='username']/following::span[text()=\"Required\"][1]");
     private By pwdemptymsg = By.xpath("//input[@name='username']/following::span[text()=\"Required\"][2]");
      private By forgotpwdlink =By.xpath("//p[text()=\"Forgot your password? \"]");
-     private By forgottxt= By.xpath("//p[text()=\"The OrangeHRM  system is not configured to receive email notifications. Please contact your OrangeHRM administrator to reset your password\"]");
+     private By forgottxt= By.xpath("//p[text()=\"Please enter your username to identify your account to reset your password\"]");
 
     public String invalidLogin(String name, String password) {
         driver.get(PropertyReader.readkey("orange_url"));

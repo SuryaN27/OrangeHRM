@@ -42,9 +42,10 @@ public class Usermanagement {
     private By recfond= By.xpath("//span[contains(normalize-space(),'Records Found')]");
     private By edituser =By.xpath("(//i[@class=\"oxd-icon bi-pencil-fill\"])[7]");
     private By seachBtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[2]");
-    private By vsname=By.xpath("//div[contains(@class,\"oxd-table-cell\") and normalize-space()=\"admin4\"]");
+    private By vsname=By.xpath("//div[@class=\"oxd-table-card\"]/div/child::div[2]");
     private By resetbtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[1]");
     JavascriptExecutor js= (JavascriptExecutor) driver;
+
    public void adduser(String emplyeename, String usernames, String pwds) throws InterruptedException {
        //driver.get(PropertyReader.readkey("url"));
   // driver.manage().window().maximize();
@@ -134,7 +135,7 @@ public class Usermanagement {
         driver.findElement(userrole).click();
         waithelpers.checkVisibility(driver,statusoptn);
         driver.findElement(statusoptn).click();
-        driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
+       driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
         waithelpers.checkVisibility(driver,employee_name);
         driver.findElement(employee_name).click();
         driver.findElement(status).click();

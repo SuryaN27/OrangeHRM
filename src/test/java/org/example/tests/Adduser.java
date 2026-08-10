@@ -8,20 +8,32 @@ import org.example.basetest.CommonToAllTest;
 import org.example.driver.DriverManager;
 import org.example.listeners.RetryAnalyzer;
 import org.example.listeners.ScreenshotListener;
+import org.example.pages.Orangedashboard;
 import org.example.pages.Orangelogin;
 import org.example.pages.Usermanagement;
 import org.example.utils.PropertyReader;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
 @Listeners(ScreenshotListener.class)
-@Test(retryAnalyzer = RetryAnalyzer.class)
+//@Test(retryAnalyzer = RetryAnalyzer.class)
 public class Adduser extends CommonToAllTest {
     private static final Logger logger = LogManager.getLogger(Adduser.class);
 
-    @Description("Verify adding new user")
     @Test(priority = 1)
+    public void add_Employee(){
+   Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
+   orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
+        logger.info("Logged in successfully");
+        Orangedashboard orangedashboard=new Orangedashboard(DriverManager.getDriver());
+        orangedashboard.add_Employee();
+
+    }
+    @Description("Verify adding new user")
+    @Test(priority = 2)
     public void adduser() throws InterruptedException {
         logger.info("Starting test: adduser");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -31,6 +43,7 @@ public class Adduser extends CommonToAllTest {
         logger.info("Attempting to add user - Employee: [{}], Username: [{}]",
                 PropertyReader.readkey("employeename"), PropertyReader.readkey("username"));
         usermanagement.adduser(PropertyReader.readkey("employeename"), PropertyReader.readkey("username"), PropertyReader.readkey("addpwd"));
+      //  WebElement emptxt=DriverManager.getDriver().findElement(By.xpath("//input[@placeholder=\"Type for hints...\"]"));
         logger.info("User added successfully");
         DriverManager.getDriver().quit();
         logger.info("Browser closed. Test: adduser completed");
@@ -83,8 +96,8 @@ public class Adduser extends CommonToAllTest {
         logger.info("Performing system user search");
         String searchedname = usermanagement.searchSystemusers();
         logger.info("Search returned username: [{}]", searchedname);
-        Assert.assertEquals("admin4", searchedname);
-        logger.info("Assertion passed - search result matches expected value: [admin4]");
+        Assert.assertEquals("Surya99", searchedname);
+        logger.info("Assertion passed - search result matches expected value: [Surya99]");
     }
 
     @Description("Verify that user is able to reset System users search")

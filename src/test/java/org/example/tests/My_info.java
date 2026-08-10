@@ -15,7 +15,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners(ScreenshotListener.class)
-@Test(retryAnalyzer = RetryAnalyzer.class)
+//@Test(retryAnalyzer = RetryAnalyzer.class)
 public class My_info extends CommonToAllTest {
     private static final Logger logger = LogManager.getLogger(Login.class);
 

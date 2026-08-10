@@ -17,12 +17,12 @@ import org.apache.logging.log4j.Logger;
 
 
 @Listeners(ScreenshotListener.class)
-//@Test(retryAnalyzer = RetryAnalyzer.class)
+@Test(retryAnalyzer = RetryAnalyzer.class)
 public class Login extends CommonToAllTest {
     private static final Logger logger = LogManager.getLogger(Login.class);
 
     @Description("Login with valid careadentials")
-    @Test(priority = 1,retryAnalyzer = RetryAnalyzer.class)
+    @Test(priority = 1)
     public void validLogin() {
        // WebDriver driver = new ChromeDriver();
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -49,7 +49,7 @@ public class Login extends CommonToAllTest {
     }
 
     @Description("Verify that the validation message is displayed for empty submit")
-    @Test(priority = 2, retryAnalyzer = RetryAnalyzer.class)
+    @Test(priority = 2)
     public void emptySubmit() {
       //  WebDriver driver = new ChromeDriver();
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -60,7 +60,7 @@ public class Login extends CommonToAllTest {
 
     }
     @Description("fooelink")
-    @Test(priority = 3, retryAnalyzer = RetryAnalyzer.class)
+    @Test(priority = 3)
     public void vaildforgotpwdtext(){
         Orangelogin orangelogin=new Orangelogin(DriverManager.getDriver());
         String fwdtext=orangelogin.Forgotpwd();

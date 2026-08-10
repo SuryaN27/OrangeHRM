@@ -116,7 +116,6 @@ private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
            unload();
 //        }
 
-             // VERY IMPORTANT
         }
     }
 }
