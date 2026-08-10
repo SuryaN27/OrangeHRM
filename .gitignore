@@ -38,3 +38,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Selenium logs
+logs/
+*.log
+
+# Failure screenshots
+failure_screenshots/
+
+# Allure report
+allure-report/

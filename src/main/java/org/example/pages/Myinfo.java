@@ -143,11 +143,14 @@ public class Myinfo {
         waithelpers.checkVisibility(driver,address);
         waithelpers.checkVisibility(driver,street1);
         driver.findElement(street1).click();
+        driver.findElement(street1).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(street1).sendKeys(Keys.DELETE);
         driver.findElement(street1).sendKeys(PropertyReader.readkey("Street1"));
         driver.findElement(street2).sendKeys(PropertyReader.readkey("Street2"));
         driver.findElement(city).sendKeys(PropertyReader.readkey("city"));
         driver.findElement(state).sendKeys(PropertyReader.readkey("State"));
         driver.findElement(zipcode).sendKeys(PropertyReader.readkey("zipcode"));
+        waithelpers.checkVisibility(driver,country);
         driver.findElement(country).click();
         waithelpers.checkVisibility(driver,countrylist);
         driver.findElement(countrylist).click();
