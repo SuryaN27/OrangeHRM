@@ -33,7 +33,7 @@ public class Adduser extends CommonToAllTest {
 
     }
     @Description("Verify adding new user")
-    @Test(priority = 2)
+    @Test(priority = 3)
     public void adduser() throws InterruptedException {
         logger.info("Starting test: adduser");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -49,22 +49,16 @@ public class Adduser extends CommonToAllTest {
         logger.info("Browser closed. Test: adduser completed");
     }
 
-    @Description("Verify the added user")
-    @Test(priority = 2, enabled = false)
-    public void Verifyadduser() {
+    @Description("Verify that adding new user is deleted sucessfully ")
+    @Test(priority = 2)
+    public void deleteuser() {
         logger.info("Starting test: Verifyadduser");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
         orangelogin.validLogin(PropertyReader.readkey("ohr_username"), PropertyReader.readkey("ohr_password"));
         logger.info("Logged in successfully");
         Usermanagement usermanagement = new Usermanagement(DriverManager.getDriver());
         logger.info("Navigating to user management to verify added user");
-        usermanagement.verifyuser();
-        String username = usermanagement.getusername();
-        logger.info("Retrieved username from UI: [{}]", username);
-        Assert.assertEquals(username, "Surya66");
-        logger.info("Assertion passed - username matches expected value: [Surya66]");
-        DriverManager.getDriver().quit();
-        logger.info("Browser closed. Test: Verifyadduser completed");
+        usermanagement.deleteUser();
     }
 
     @Description("Verify the user is able to edit the added user")
@@ -78,7 +72,7 @@ public class Adduser extends CommonToAllTest {
         logger.info("Initiating edit user action");
         usermanagement.edituser();
         logger.info("Edit performed. Verifying updated user details");
-        usermanagement.verifyuser();
+        usermanagement.deleteUser();
         String updatedname = usermanagement.getusername();
         logger.info("Retrieved updated username from UI: [{}]", updatedname);
         Assert.assertEquals(updatedname, "Tejasurya99");

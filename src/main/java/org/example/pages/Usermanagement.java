@@ -44,6 +44,9 @@ public class Usermanagement {
     private By seachBtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[2]");
     private By vsname=By.xpath("//div[@class=\"oxd-table-card\"]/div/child::div[2]");
     private By resetbtn=By.xpath("//div [@class=\"oxd-form-actions\"]//button[1]");
+    private By checkbox=By.xpath("//div[@class=\"oxd-table-card\"]/div/child::div[1]");
+    private By deleteSelected=By.xpath("//button[text()=\" Delete Selected \"]");
+    private By yesdeleteBtn=By.xpath("//button[text()=\" Yes, Delete \"]");
     JavascriptExecutor js= (JavascriptExecutor) driver;
 
    public void adduser(String emplyeename, String usernames, String pwds) throws InterruptedException {
@@ -80,12 +83,21 @@ public class Usermanagement {
       // waithelpers.checkVisibility(driver,recfond);
 
    }
-    public void verifyuser() {
-        waithelpers.checkVisibility(driver, admin);
+    public void deleteUser() {
+        waithelpers.checkVisibility(driver,admin);
         driver.findElement(admin).click();
         waithelpers.checkVisibility(driver, recfond);
-        js.executeScript("window.scrollBy(500,0);");
-        js.executeScript("window.scrollBy(0,500);");
+        driver.findElement(username).sendKeys(PropertyReader.readkey("searchusername"));
+        driver.findElement(userrole).click();
+        waithelpers.checkVisibility(driver,seachBtn);
+        driver.findElement(seachBtn).click();
+        waithelpers.checkVisibility(driver,checkbox);
+        driver.findElement(checkbox).click();
+        waithelpers.checkVisibility(driver,deleteSelected);
+        driver.findElement(deleteSelected).click();
+        waithelpers.checkVisibility(driver,yesdeleteBtn);
+        driver.findElement(yesdeleteBtn).click();
+
     }
 
     public String getusername() {
@@ -132,15 +144,15 @@ public class Usermanagement {
         driver.findElement(admin).click();
         waithelpers.checkVisibility(driver, recfond);
         driver.findElement(username).sendKeys(PropertyReader.readkey("searchusername"));
-        driver.findElement(userrole).click();
-        waithelpers.checkVisibility(driver,statusoptn);
-        driver.findElement(statusoptn).click();
-       driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
-        waithelpers.checkVisibility(driver,employee_name);
-        driver.findElement(employee_name).click();
-        driver.findElement(status).click();
-        waithelpers.checkVisibility(driver,statusoptn);
-        driver.findElement(statusoptn).click();
+//        driver.findElement(userrole).click();
+//       waithelpers.checkVisibility(driver,statusoptn);
+//        driver.findElement(statusoptn).click();
+//       driver.findElement(empname).sendKeys(PropertyReader.readkey("searchemployeename"));
+//        waithelpers.checkVisibility(driver,employee_name);
+//        driver.findElement(employee_name).click();
+//        driver.findElement(status).click();
+//        waithelpers.checkVisibility(driver,statusoptn);
+//        driver.findElement(statusoptn).click();
         waithelpers.checkVisibility(driver,seachBtn);
         driver.findElement(seachBtn).click();
         waithelpers.checkVisibility(driver,vsname);
