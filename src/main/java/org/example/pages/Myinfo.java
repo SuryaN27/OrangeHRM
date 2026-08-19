@@ -41,8 +41,10 @@ public class Myinfo {
    private By city=By.xpath("//label[text()=\"City\"]/following::input[1]");
    private By state=By.xpath("//label[text()=\"State/Province\"]/following::input[1]");
    private By zipcode=By.xpath("//label[text()=\"Zip/Postal Code\"]/following::input[1]");
-   private By country=By.xpath("//div[text()=\"-- Select --\"]");
+   //private By country=By.xpath("//div[text()=\"-- Select --\"]");
    private By countrylist=By.xpath("//span[text()=\"India\"]");
+    private By country=By.xpath("//div[@class=\"oxd-select-text--after\"]");
+
    private By homenum=By.xpath("//label[text()=\"Home\"]/following::input[1]");
    private By mobile=By.xpath("//label[text()=\"Mobile\"]/following::input[1]");
    private By work=By.xpath("//label[text()=\"Work\"]/following::input[1]");
@@ -146,18 +148,46 @@ public class Myinfo {
         driver.findElement(street1).sendKeys(Keys.CONTROL+"a");
         driver.findElement(street1).sendKeys(Keys.DELETE);
         driver.findElement(street1).sendKeys(PropertyReader.readkey("Street1"));
+
+        driver.findElement(street2).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(street2).sendKeys(Keys.DELETE);
         driver.findElement(street2).sendKeys(PropertyReader.readkey("Street2"));
+
+        driver.findElement(city).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(city).sendKeys(Keys.DELETE);
         driver.findElement(city).sendKeys(PropertyReader.readkey("city"));
+
+        driver.findElement(state).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(state).sendKeys(Keys.DELETE);
         driver.findElement(state).sendKeys(PropertyReader.readkey("State"));
+
+        driver.findElement(zipcode).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(zipcode).sendKeys(Keys.DELETE);
         driver.findElement(zipcode).sendKeys(PropertyReader.readkey("zipcode"));
+
         waithelpers.checkVisibility(driver,country);
         driver.findElement(country).click();
         waithelpers.checkVisibility(driver,countrylist);
         driver.findElement(countrylist).click();
+
+        driver.findElement(homenum).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(homenum).sendKeys(Keys.DELETE);
         driver.findElement(homenum).sendKeys(PropertyReader.readkey("homenum"));
+
+        driver.findElement(mobile).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(mobile).sendKeys(Keys.DELETE);
         driver.findElement(mobile).sendKeys(PropertyReader.readkey("mobile"));
+
+        driver.findElement(work).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(work).sendKeys(Keys.DELETE);
         driver.findElement(work).sendKeys(PropertyReader.readkey("work"));
+
+        driver.findElement(wemail).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(wemail).sendKeys(Keys.DELETE);
         driver.findElement(wemail).sendKeys(PropertyReader.readkey("webmail"));
+
+        driver.findElement(oemail).sendKeys(Keys.CONTROL+"a");
+        driver.findElement(oemail).sendKeys(Keys.DELETE);
         driver.findElement(oemail).sendKeys(PropertyReader.readkey("oemail"));
         driver.findElement(savebtn).click();
     }
