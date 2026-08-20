@@ -33,7 +33,7 @@ public class Adduser extends CommonToAllTest {
 
     }
     @Description("Verify adding new user")
-    @Test(priority = 3)
+    @Test(priority = 2)
     public void adduser() throws InterruptedException {
         logger.info("Starting test: adduser");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -49,7 +49,7 @@ public class Adduser extends CommonToAllTest {
     }
 
     @Description("Verify that adding new user is deleted sucessfully ")
-    @Test(priority = 2)
+    @Test(priority = 5)
     public void deleteuser() {
         logger.info("Starting test: Verifyadduser");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -79,7 +79,7 @@ public class Adduser extends CommonToAllTest {
     }
 
     @Description("Verify that user is able to search System users")
-    @Test(priority = 4)
+    @Test(priority = 3)
     public void searchSystemusers() {
         logger.info("Starting test: searchSystemusers");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());
@@ -94,7 +94,7 @@ public class Adduser extends CommonToAllTest {
     }
 
     @Description("Verify that user is able to reset System users search")
-    @Test(priority = 5)
+    @Test(priority = 4)
     public void resetsearchSystemusers() throws InterruptedException {
         logger.info("Starting test: resetsearchSystemusers");
         Orangelogin orangelogin = new Orangelogin(DriverManager.getDriver());

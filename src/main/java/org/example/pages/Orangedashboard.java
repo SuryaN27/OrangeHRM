@@ -25,7 +25,6 @@ public class Orangedashboard {
 
 
     public void add_Employee(){
-    driver.get(PropertyReader.readkey("orange_url"));
         driver.manage().window().maximize();
         waithelpers.checkVisibility(driver,pim);
         driver.findElement(pim).click();
