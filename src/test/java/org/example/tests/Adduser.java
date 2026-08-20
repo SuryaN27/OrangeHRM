@@ -45,7 +45,6 @@ public class Adduser extends CommonToAllTest {
         usermanagement.adduser(PropertyReader.readkey("employeename"), PropertyReader.readkey("username"), PropertyReader.readkey("addpwd"));
       //  WebElement emptxt=DriverManager.getDriver().findElement(By.xpath("//input[@placeholder=\"Type for hints...\"]"));
         logger.info("User added successfully");
-        DriverManager.getDriver().quit();
         logger.info("Browser closed. Test: adduser completed");
     }
 
